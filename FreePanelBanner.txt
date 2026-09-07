@@ -1,2 +1,2 @@
-Welcome! The panel is currently under testing. Please use secondary accounts.
+Welcome! The panel is currently under testing. Use secondary accounts.
 255, 0, 0, 200
